@@ -1,0 +1,99 @@
+[00:50:05][dlc.cpp:1692]: Could not find files for mod: F:\SteamLibrary\steamapps\workshop\content\394360\820260968
+[00:50:05][dlc.cpp:1692]: Could not find files for mod: F:\SteamLibrary\steamapps\workshop\content\394360\1889600797
+[00:50:05][dlc.cpp:1692]: Could not find files for mod: F:\SteamLibrary\steamapps\workshop\content\394360\1974370360
+[00:50:05][dlc.cpp:1692]: Could not find files for mod: F:\SteamLibrary\steamapps\workshop\content\394360\1303741106
+[00:50:05][dlc.cpp:1692]: Could not find files for mod: F:\SteamLibrary\steamapps\workshop\content\394360\1355856476
+[00:50:31][persistent.cpp:52]: Error: "Unknown modifier: set_rule, near line: 32" in file: "common/ideas/HoS_Ideas.txt" near line: 32
+[00:50:31][persistent.cpp:52]: Error: "Unknown modifier: set_rule, near line: 33" in file: "common/ideas/HoS_Ideas.txt" near line: 33
+[00:50:31][persistent.cpp:52]: Error: "Unknown modifier: set_rule, near line: 34" in file: "common/ideas/HoS_Ideas.txt" near line: 34
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 4" in file: "common/country_leader/HoS_traits.txt" near line: 4
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 5" in file: "common/country_leader/HoS_traits.txt" near line: 7
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 8" in file: "common/country_leader/HoS_traits.txt" near line: 8
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 10" in file: "common/country_leader/HoS_traits.txt" near line: 12
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 17" in file: "common/country_leader/HoS_traits.txt" near line: 17
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 18" in file: "common/country_leader/HoS_traits.txt" near line: 20
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 21" in file: "common/country_leader/HoS_traits.txt" near line: 21
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 23" in file: "common/country_leader/HoS_traits.txt" near line: 25
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 30" in file: "common/country_leader/HoS_traits.txt" near line: 30
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 31" in file: "common/country_leader/HoS_traits.txt" near line: 33
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 34" in file: "common/country_leader/HoS_traits.txt" near line: 34
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 36" in file: "common/country_leader/HoS_traits.txt" near line: 38
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 43" in file: "common/country_leader/HoS_traits.txt" near line: 43
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 44" in file: "common/country_leader/HoS_traits.txt" near line: 46
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 47" in file: "common/country_leader/HoS_traits.txt" near line: 47
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 49" in file: "common/country_leader/HoS_traits.txt" near line: 51
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 57" in file: "common/country_leader/HoS_traits.txt" near line: 57
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 58" in file: "common/country_leader/HoS_traits.txt" near line: 60
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 61" in file: "common/country_leader/HoS_traits.txt" near line: 61
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 63" in file: "common/country_leader/HoS_traits.txt" near line: 65
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 70" in file: "common/country_leader/HoS_traits.txt" near line: 70
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 71" in file: "common/country_leader/HoS_traits.txt" near line: 73
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 74" in file: "common/country_leader/HoS_traits.txt" near line: 74
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 76" in file: "common/country_leader/HoS_traits.txt" near line: 83
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 88" in file: "common/country_leader/HoS_traits.txt" near line: 88
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 89" in file: "common/country_leader/HoS_traits.txt" near line: 91
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 92" in file: "common/country_leader/HoS_traits.txt" near line: 92
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 94" in file: "common/country_leader/HoS_traits.txt" near line: 96
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 101" in file: "common/country_leader/HoS_traits.txt" near line: 101
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 102" in file: "common/country_leader/HoS_traits.txt" near line: 104
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 105" in file: "common/country_leader/HoS_traits.txt" near line: 105
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 107" in file: "common/country_leader/HoS_traits.txt" near line: 109
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 114" in file: "common/country_leader/HoS_traits.txt" near line: 114
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 115" in file: "common/country_leader/HoS_traits.txt" near line: 117
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 118" in file: "common/country_leader/HoS_traits.txt" near line: 118
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 120" in file: "common/country_leader/HoS_traits.txt" near line: 122
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 127" in file: "common/country_leader/HoS_traits.txt" near line: 127
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 128" in file: "common/country_leader/HoS_traits.txt" near line: 130
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 131" in file: "common/country_leader/HoS_traits.txt" near line: 131
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 133" in file: "common/country_leader/HoS_traits.txt" near line: 135
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 140" in file: "common/country_leader/HoS_traits.txt" near line: 140
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 141" in file: "common/country_leader/HoS_traits.txt" near line: 143
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 144" in file: "common/country_leader/HoS_traits.txt" near line: 144
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 146" in file: "common/country_leader/HoS_traits.txt" near line: 148
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 153" in file: "common/country_leader/HoS_traits.txt" near line: 153
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 154" in file: "common/country_leader/HoS_traits.txt" near line: 156
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 157" in file: "common/country_leader/HoS_traits.txt" near line: 157
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 159" in file: "common/country_leader/HoS_traits.txt" near line: 161
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 166" in file: "common/country_leader/HoS_traits.txt" near line: 166
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 167" in file: "common/country_leader/HoS_traits.txt" near line: 169
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 170" in file: "common/country_leader/HoS_traits.txt" near line: 170
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 172" in file: "common/country_leader/HoS_traits.txt" near line: 179
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 184" in file: "common/country_leader/HoS_traits.txt" near line: 184
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 185" in file: "common/country_leader/HoS_traits.txt" near line: 187
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 188" in file: "common/country_leader/HoS_traits.txt" near line: 188
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 190" in file: "common/country_leader/HoS_traits.txt" near line: 192
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: picture, near line: 197" in file: "common/country_leader/HoS_traits.txt" near line: 197
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: allowed, near line: 198" in file: "common/country_leader/HoS_traits.txt" near line: 200
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: removal_cost, near line: 201" in file: "common/country_leader/HoS_traits.txt" near line: 201
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: modifier, near line: 203" in file: "common/country_leader/HoS_traits.txt" near line: 210
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: the, near line: 214" in file: "common/country_leader/HoS_traits.txt" near line: 214
+[00:50:32][persistent.cpp:52]: Error: "Unknown modifier: =, near line: 214" in file: "common/country_leader/HoS_traits.txt" near line: 225
+[00:50:41][effect.cpp:284]: Error: "Unexpected token: disperesed_industry, near line: 26
+Unexpected token: disperesed_industry2, near line: 27
+" in file: "history/countries/FGH - Ghione.txt" near line: 28
+[00:50:41][persistent.cpp:52]: Error: "Invalid idea: export_economy, near line: 49" in file: "history/countries/FGH - Ghione.txt" near line: 51
+[00:50:42][history.cpp:270]: FIA - is missing a history file.
+[00:50:42][history.cpp:270]: FBU - is missing a history file.
+[00:50:42][history.cpp:270]: FVA - is missing a history file.
+[00:50:44][gamestate.cpp:2243]: The state 797 - STATE_797 has no supply area.
+[00:50:44][gamestate.cpp:2243]: The state 798 - STATE_798 has no supply area.
+[00:50:44][gamestate.cpp:2243]: The state 799 - STATE_799 has no supply area.
+[00:50:44][gamestate.cpp:2243]: The state 800 - STATE_800 has no supply area.
+[00:50:44][gamestate.cpp:2243]: The state 801 - STATE_801 has no supply area.
+[00:50:44][gamestate.cpp:2243]: The state 802 - STATE_802 has no supply area.
+[00:50:47][flagtextureatlas.cpp:493]: Error loading flag for country FIA : Ideology democratic : Path gfx/flags/ : File not found
+[00:50:47][flagtextureatlas.cpp:493]: Error loading flag for country FBU : Ideology democratic : Path gfx/flags/ : File not found
+[00:50:47][flagtextureatlas.cpp:493]: Error loading flag for country FVA : Ideology democratic : Path gfx/flags/ : File not found
+[00:50:47][flagtextureatlas.cpp:493]: Error loading flag for country FGH : Ideology democratic : Path gfx/flags/ : File not found
+[00:50:48][flagtextureatlas.cpp:493]: Error loading flag for country FIA : Ideology democratic : Path gfx/flags/medium/ : File not found
+[00:50:48][flagtextureatlas.cpp:493]: Error loading flag for country FBU : Ideology democratic : Path gfx/flags/medium/ : File not found
+[00:50:48][flagtextureatlas.cpp:493]: Error loading flag for country FVA : Ideology democratic : Path gfx/flags/medium/ : File not found
+[00:50:48][flagtextureatlas.cpp:493]: Error loading flag for country FGH : Ideology democratic : Path gfx/flags/medium/ : File not found
+[00:50:49][flagtextureatlas.cpp:493]: Error loading flag for country FIA : Ideology democratic : Path gfx/flags/small/ : File not found
+[00:50:49][flagtextureatlas.cpp:493]: Error loading flag for country FBU : Ideology democratic : Path gfx/flags/small/ : File not found
+[00:50:49][flagtextureatlas.cpp:493]: Error loading flag for country FVA : Ideology democratic : Path gfx/flags/small/ : File not found
+[00:50:49][flagtextureatlas.cpp:493]: Error loading flag for country FGH : Ideology democratic : Path gfx/flags/small/ : File not found
+[00:50:49][flagtextureatlas.cpp:493]: Error loading flag for country FIA : Ideology democratic : Path gfx/flags/small/ : File not found
+[00:50:49][flagtextureatlas.cpp:493]: Error loading flag for country FBU : Ideology democratic : Path gfx/flags/small/ : File not found
+[00:50:49][flagtextureatlas.cpp:493]: Error loading flag for country FVA : Ideology democratic : Path gfx/flags/small/ : File not found
+[00:50:49][flagtextureatlas.cpp:493]: Error loading flag for country FGH : Ideology democratic : Path gfx/flags/small/ : File not found

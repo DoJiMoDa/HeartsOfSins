@@ -1,0 +1,4 @@
+FIA = "countries/Iannetta.txt"
+FBU = "countries/Bussolin.txt"
+FVA = "countries/Vallini.txt"
+FGH = "countries/Ghione.txt"

@@ -1,0 +1,27 @@
+
+state={
+	id=800
+	name="STATE_800"
+	manpower = 3376438	
+	state_category = megalopolis
+
+	history={
+		owner = FVA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 4
+			air_base = 2
+		}
+		add_core_of = FVA
+		add_core_of = USA
+		victory_points = {
+			9450 30
+		}
+
+	}
+
+	provinces={
+		9450 12368
+	}
+}

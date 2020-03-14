@@ -1,0 +1,42 @@
+ideas = {
+
+country = {
+		HoS_Omerta = {
+				picture = "GFX_idea_omerta"
+					allowed = {
+						always = no
+					}
+					removal_cost = -1
+					
+					modifier = {
+						surrender_limit = 1
+						max_surrender_limit_offset = 0.15
+						drift_defence_factor = 0.55
+						political_power_gain = 0.1
+						foreign_subversive_activites = -0.45
+						army_core_defence_factor = 0.15
+						dig_in_speed = 0.15
+						max_dig_in = 0.3
+					}
+					
+		}
+
+		HoS_Syndicate = {
+				picture = "GFX_Syndicate"
+					allowed = {
+						always = no
+					}
+					removal_cost = -1
+					
+					modifier = {
+				#set_rule = { can_guarantee_other_ideologies = yes }
+				#set_rule = { can_puppet = yes }
+				#set_rule = {can_declare_war = no}
+					}
+					
+		}		
+}
+
+
+
+}

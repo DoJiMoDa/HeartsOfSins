@@ -1,0 +1,19 @@
+FGH = {
+	color = rgb { 255 252 0 }
+	color_ui = rgb { 255 252 0 }
+}
+
+FVA = {
+	color = rgb { 188 110 52 }
+	color_ui = rgb { 188 110 52 }
+}
+
+FBU = {
+	color = rgb { 0 0 128 }
+	color_ui = rgb { 0 0 128 }
+}
+
+FIA = {
+	color = rgb { 115 110 70 }
+	color_ui = rgb { 115 110 70 }
+}

@@ -1,0 +1,21 @@
+country_event = {
+	id = placeholder.1
+	is_triggered_only = yes
+	hidden = yes
+
+	all_controlled_state = {
+		limit = {
+			is_core_of = USA
+			NOT = {
+				has_state_flag = reduced_resistance_with_this
+			}
+		}
+		set_state_flag = reduced_resistance_with_this
+		add_state_modifier = {
+			modifier = {
+				resistance_target = -1.0
+			}
+		}
+	}
+}
+		

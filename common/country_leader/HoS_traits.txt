@@ -1,0 +1,145 @@
+leader_traits = {
+
+		HoS_democrat = {
+			random = no
+				democratic_drift = 0.10
+							ai_will_do = {
+			factor = 1
+		}
+	}
+					
+		HoS_close_to_us = {
+			random = no
+					
+							ai_will_do = {
+			factor = 1
+		}
+	}
+
+		HoS_powderkeg = {
+			random = no
+					war_support_weekly = -0.01
+							ai_will_do = {
+			factor = 1
+		}
+	}
+		
+		HoS_far_from_business = {
+			random = no
+					political_power_gain = -0.5
+							ai_will_do = {
+			factor = 1
+		}
+	}
+						
+		HoS_western_acting = {
+			random = no
+					neutrality_drift = 0.05
+							ai_will_do = {
+			factor = 1
+		}
+	}
+
+		HoS_innovative_mind = {
+			random = no
+					add_tech_bonus = {
+					name = HoS_innovative_bonus
+					bonus = 10
+					uses = 100
+					category = infantry
+							} 
+							ai_will_do = {
+			factor = 1
+		}
+	}	
+		
+		HoS_neutrality_pact = {
+			random = no				
+					war_support_weekly = -1.4  
+							ai_will_do = {
+			factor = 1
+		}
+	}
+				
+		HoS_stubborn_temper = {
+			random = no
+					intelligence_agency_defense = -1   
+								ai_will_do = {
+			factor = 1
+		}
+	}
+					
+		HoS_traditions = {
+			random = no
+					fascism_drift = 0.10    
+							ai_will_do = {
+			factor = 1
+		}
+	}
+			
+		HoS_luisianna_figure = {
+			random = no
+					war_support_weekly = 1.4   
+							ai_will_do = {
+			factor = 1
+		}
+	}
+
+		HoS_segreagation = {
+			random = no
+					production_speed_buildings_factor = -0.5 
+							ai_will_do = {
+			factor = 1
+		}
+	}
+					
+		HoS_segreagation = {
+			random = no
+					production_speed_buildings_factor = -0.5 
+							ai_will_do = {
+			factor = 1
+		}
+	}
+					
+		HoS_musty_man = {
+			random = no
+					add_tech_bonus = {
+					name = HoS_musty_bonus
+					bonus = 5
+					uses = 100
+					category = industry
+							} 			
+							ai_will_do = {
+			factor = 1
+		}
+	}		
+
+		HoS_close_to_workers = {
+			random = no
+				communism_drift = 0.05 	
+						ai_will_do = {
+			factor = 1
+		}
+	}				
+		
+		HoS_industry_tycoon = {
+			random = no	
+				add_tech_bonus = {
+				name = HoS_tycoon_bonus
+				bonus = 50
+				uses = 100
+				category = industry
+						} 
+						ai_will_do = {
+			factor = 1
+		}
+	}
+
+		HoS_link_to_the_soviets = {
+			random = no
+				political_power_gain = -0.1 
+						ai_will_do = {
+			factor = 1
+		}
+	}
+}
